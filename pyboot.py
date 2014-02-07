@@ -12,6 +12,7 @@ Some things to note:
     I did not do any kind of argument parsing due to laziness, feel free to add it yourself.
     The Error Handling is god-awful. Don't care. It might throw an error while it's actually working, it won't affect the actual booting.
     Only skids uses shell booters. Don't be a skid.
+    
 Only Tested on Debian.
 
 """
