@@ -2,7 +2,7 @@
 """
 # Python Shell Booter - Written by JoinSe7en
 
-A friend of mine contacted me with a request to write up a simple shell booter in Python primarily for educational purposes since he's on the path of learning Python.
+A friend of mine contacted me with a request to write up a simple shell booter in Python for educational purposes since he's on the path of learning Python.
 While this is still a very basic form of shell booter with no cool functions or flashy GUI i'd still like to post it if someone someday would be interested.
 
 I'm sure there are better ways of doing this, no need to get buttmad about it. 
@@ -11,7 +11,7 @@ If you're python leet hax0r, please show us your ways.
 Some things to note:
     I did not do any kind of argument parsing due to laziness, feel free to add it yourself.
     The Error Handling is god-awful. Don't care. It might throw an error while it's actually working, it won't affect the actual booting.
-
+    Only skids uses shell booters. Don't be a skid.
 Only Tested on Debian.
 
 """
